@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # IUB E-Portal System
 
 A Java-based console application simulating the Islamia University of Bahawalpur's E-Portal. The system provides functionalities for both students and employees, including user authentication, timetable management, fee vouchers, and more.
@@ -33,3 +34,7 @@ A Java-based console application simulating the Islamia University of Bahawalpur
 1. Clone the repository:
    ```bash
    git clone https://github.com/Ziazehri/IUB-EPortal-Java-Project.git
+=======
+# IUB-EPortal-Java-Project
+A Java console application simulating an E-Portal system for the Islamia University of Bahawalpur. Features include user authentication, timetable management, fee vouchers, employee benefits, and more.
+>>>>>>> 82c2bbdd70da47cb35abbc72a79e0be8fb1f7eee
